@@ -1,0 +1,1 @@
+Project file contains code that controls a 12-DOF quadruped robot using an on-chip inverse kinematics engine to enable smooth, 2D omnidirectional walking (forward, backward, strafe, and diagonals).Receives directional motion characters over Bluetooth (HC-05) from a custom PC GUI, with an automatic 900 ms failsafe stop if communication drops.
